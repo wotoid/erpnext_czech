@@ -1341,3 +1341,143 @@ msgstr "Přijaté množství"
 #. ERPNext Czech presentation overlay - Purchase Receipt visible leftovers
 msgid "Rejected Quantity"
 msgstr "Zamítnuté množství"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Received and Accepted"
+msgstr "Příjem a přijaté množství"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Qty as Per Stock UOM"
+msgstr "Množství ve skladové MJ"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Received Qty in Stock UOM"
+msgstr "Přijaté množství ve skladové MJ"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Accepted Qty in Stock UOM"
+msgstr "Přijaté množství ve skladové MJ"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Returned Qty in Stock UOM"
+msgstr "Vrácené množství ve skladové MJ"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Retain Sample"
+msgstr "Uchovat vzorek"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Sample Quantity"
+msgstr "Množství vzorku"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Rate and Amount"
+msgstr "Cena a částka"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Price List Rate"
+msgstr "Cena dle ceníku"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Price List Rate (Company Currency)"
+msgstr "Cena dle ceníku (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Discount on Price List Rate (%)"
+msgstr "Sleva z ceníkové ceny (%)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Discount Amount"
+msgstr "Částka slevy"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Discount and Margin"
+msgstr "Sleva a marže"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Rate (Company Currency)"
+msgstr "Cena (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Amount (Company Currency)"
+msgstr "Částka (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Rate of Stock UOM"
+msgstr "Cena za skladovou MJ"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Is Free Item"
+msgstr "Bezplatná položka"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Net Rate"
+msgstr "Cena bez daně"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Net Rate (Company Currency)"
+msgstr "Cena bez daně (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Landed Cost Voucher Amount"
+msgstr "Vedlejší pořizovací náklady"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Billed Amt"
+msgstr "Vyfakturovaná částka"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Amount Difference with Purchase Invoice"
+msgstr "Rozdíl částky oproti přijaté faktuře"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Warehouse and Reference"
+msgstr "Sklad a reference"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Allow Zero Valuation Rate"
+msgstr "Povolit nulovou oceňovací cenu"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Rejected Serial No"
+msgstr "Zamítnutá sériová čísla"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Item Weight Details"
+msgstr "Údaje o hmotnosti položky"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Weight Per Unit"
+msgstr "Hmotnost na jednotku"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Weight UOM"
+msgstr "MJ hmotnosti"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Total Weight"
+msgstr "Celková hmotnost"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Manufacturer"
+msgstr "Výrobce"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Manufacturer Part Number"
+msgstr "Číslo dílu výrobce"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Accounting Details"
+msgstr "Účetní údaje"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Expense Account"
+msgstr "Nákladový účet"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "Provisional Expense Account"
+msgstr "Předběžný nákladový účet"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt Item detail
+msgid "WIP Composite Asset"
+msgstr "Rozpracovaný složený majetek"
