@@ -1069,3 +1069,11 @@ msgstr "V minutách"
 #. ERPNext Czech presentation overlay - Work Order configuration polish
 msgid "Material Planning"
 msgstr "Plánování materiálu"
+
+#. ERPNext Czech presentation overlay - submitted Work Order fields
+msgid "Additional Transferred Qty"
+msgstr "Dodatečně převedené množství"
+
+#. ERPNext Czech presentation overlay - submitted Work Order fields
+msgid "Disassembled Qty"
+msgstr "Rozebrané množství"
