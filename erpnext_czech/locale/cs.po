@@ -2169,3 +2169,27 @@ msgstr "Procento, o které lze u této položky překročit množství při dod�
 #. ERPNext Czech presentation overlay - Item details polish
 msgid "Percentage by which over-billing is allowed against a Sales/Purchase Order for this item. If not set, value from Accounts Settings will be used."
 msgstr "Procento, o které lze při fakturaci této položky překročit množství oproti prodejní či nákupní objednávce. Není-li nastaveno, použije se hodnota z Nastavení účetnictví."
+
+#. ERPNext Czech presentation overlay - Pick List stock warnings
+msgid "Insufficient Stock"
+msgstr "Nedostatek zásob"
+
+#. ERPNext Czech presentation overlay - Pick List stock warnings
+msgid "{0} units of Item {1} is not available in any of the warehouses."
+msgstr "{0} jednotek položky {1} není k dispozici v žádném skladu."
+
+#. ERPNext Czech presentation overlay - Pick List stock warnings
+msgid "Already Picked"
+msgstr "Již vychystáno"
+
+#. ERPNext Czech presentation overlay - Pick List stock warnings
+msgid "{0} units of Item {1} is not available in any of the warehouses. Other Pick Lists exist for this item."
+msgstr "{0} jednotek položky {1} není k dispozici v žádném skladu. Pro tuto položku existují další vychystávací seznamy."
+
+#. ERPNext Czech presentation overlay - Pick List stock warnings
+msgid "Pick List Incomplete"
+msgstr "Vychystávací seznam není kompletní"
+
+#. ERPNext Czech presentation overlay - Pick List stock warnings
+msgid "Row {0} picked quantity is less than the required quantity, additional {1} {2} required."
+msgstr "Na řádku {0} je vychystané množství menší než požadované. Je třeba doplnit ještě {1} {2}."
