@@ -192,15 +192,15 @@ msgstr "Výchozí receptura"
 
 #. ERPNext Czech presentation overlay
 msgid "Default Source Warehouse"
-msgstr "Výchozí zdrojový sklad"
+msgstr "Výchozí sklad surovin"
 
 #. ERPNext Czech presentation overlay
 msgid "Default Target Warehouse"
-msgstr "Výchozí cílový sklad"
+msgstr "Výchozí sklad hotových výrobků"
 
 #. ERPNext Czech presentation overlay
 msgid "Default Warehouse"
-msgstr "Výchozí sklad"
+msgstr "Výchozí sklady"
 
 #. ERPNext Czech presentation overlay
 msgid "Delete"
@@ -1773,3 +1773,307 @@ msgstr "Povolte pro suroviny používané v receptuře. Vypněte pro doplňkové
 #. ERPNext Czech presentation overlay - Item master polish
 msgid "Enable if a vendor manufactures this item for you. You can choose to provide them raw materials using the default BOM."
 msgstr "Povolte, pokud tuto položku pro vás vyrábí kooperant. Suroviny mu lze dodat podle výchozí receptury."
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Item to Manufacture"
+msgstr "Výrobek"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "The final item that will be produced using this BOM."
+msgstr "Výrobek, který bude podle této receptury vyráběn."
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Unit Of Measure"
+msgstr "Měrná jednotka"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Quantity (Output Qty)"
+msgstr "Výstupní množství"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "How many units of the final product this BOM makes."
+msgstr "Kolik jednotek výrobku tato receptura vyrobí."
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Is Active"
+msgstr "Aktivní"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Is Default"
+msgstr "Výchozí"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Has Variants"
+msgstr "Má varianty"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Total Cost"
+msgstr "Celkové náklady"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Total Cost (Company Currency)"
+msgstr "Celkové náklady (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "BOM Configuration"
+msgstr "Nastavení receptury"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "With Operations"
+msgstr "S operacemi"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Manage cost of operations"
+msgstr "Zahrnout náklady výrobních operací"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Track Semi Finished Goods"
+msgstr "Evidovat polotovary"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Users can make manufacture entry against Job Cards"
+msgstr "Umožní evidovat výrobu také podle pracovních lístků"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Set rate of sub-assembly item based on BOM"
+msgstr "Nastavit cenu polotovaru podle receptury"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Is Phantom BOM"
+msgstr "Virtuální receptura"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Cost Configuration"
+msgstr "Nastavení nákladů"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Rate Of Materials Based On"
+msgstr "Cena materiálu podle"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Conversion Rate"
+msgstr "Přepočítací kurz"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Price List Exchange Rate"
+msgstr "Kurz ceníku"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Price List Currency"
+msgstr "Měna ceníku"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Components"
+msgstr "Suroviny a komponenty"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Secondary Items"
+msgstr "Vedlejší produkty"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Secondary Items Cost"
+msgstr "Náklady vedlejších produktů"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Secondary Items Cost (Company Currency)"
+msgstr "Náklady vedlejších produktů (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Cost Allocation"
+msgstr "Rozdělení nákladů"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "% Cost Allocation"
+msgstr "Podíl nákladů (%)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Cost Allocation / Process Loss"
+msgstr "Rozdělení nákladů / výrobní ztráta"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "% Process Loss"
+msgstr "Výrobní ztráta (%)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Process Loss Qty"
+msgstr "Množství výrobní ztráty"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Consume Components"
+msgstr "Spotřeba surovin"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Based On"
+msgstr "Na základě"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Controls how raw materials are consumed during the ‘Manufacture’ stock entry."
+msgstr "Určuje, jak se při dokončení výroby odepisují suroviny ze skladu."
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Material Transferred for Manufacture"
+msgstr "Materiál převedený do výroby"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Costing"
+msgstr "Kalkulace"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Operating Cost"
+msgstr "Náklady na operace"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Raw Material Cost"
+msgstr "Náklady na suroviny"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Operating Cost (Company Currency)"
+msgstr "Náklady na operace (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Raw Material Cost (Company Currency)"
+msgstr "Náklady na suroviny (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Finished Goods based Operating Cost"
+msgstr "Náklady na operace podle hotového výrobku"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Finished Goods Based Operating Cost"
+msgstr "Náklady na operace podle hotového výrobku"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Operating Cost Per BOM Quantity"
+msgstr "Náklady na operace na množství receptury"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Exploded Items"
+msgstr "Rozpad receptury"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "More Information"
+msgstr "Více informací"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Amended From"
+msgstr "Opraveno z"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Item operation"
+msgstr "Operace položky"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Quantity and Rate"
+msgstr "Množství a cena"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Rate & Amount"
+msgstr "Cena a částka"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Basic Rate (Company Currency)"
+msgstr "Základní cena (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Qty Consumed Per Unit"
+msgstr "Spotřeba na jednotku"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Original Item"
+msgstr "Původní položka"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Sourced by Supplier"
+msgstr "Dodává dodavatel"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Do Not Explode"
+msgstr "Nerozpadat do nižší úrovně"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Operation ID"
+msgstr "ID operace"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Is Sub Assembly Item"
+msgstr "Je polotovar"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Is Phantom Item"
+msgstr "Virtuální položka"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Hour Rate"
+msgstr "Hodinová sazba"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Operation Time"
+msgstr "Čas operace"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "In minutes"
+msgstr "V minutách"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Operation time does not depend on quantity to produce"
+msgstr "Čas operace nezávisí na vyráběném množství"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Fixed Time"
+msgstr "Pevný čas"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Base Hour Rate(Company Currency)"
+msgstr "Hodinová sazba (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Operating Cost(Company Currency)"
+msgstr "Náklady na operaci (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Sequence ID"
+msgstr "Pořadí operace"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "If you want to run operations in parallel, keep the same sequence ID for them."
+msgstr "Pro souběžné operace použijte stejné pořadí."
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Cost Per Unit"
+msgstr "Náklad na jednotku"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Base Cost Per Unit"
+msgstr "Náklad na jednotku (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Set Operating Cost Based On BOM Quantity"
+msgstr "Počítat náklady operace podle množství receptury"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Workstation Type"
+msgstr "Typ pracoviště"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "FG / Semi FG Item"
+msgstr "Hotový výrobek / polotovar"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Qty to Produce"
+msgstr "Množství k výrobě"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Is Final Finished Good"
+msgstr "Je finální výrobek"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Add Raw Materials"
+msgstr "Přidat suroviny"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid " Skip Material Transfer"
+msgstr "Přeskočit převod materiálu"
+
+#. ERPNext Czech presentation overlay - BOM / Recipe polish
+msgid "Backflush Materials From WIP Warehouse"
+msgstr "Odepisovat materiál ze skladu rozpracované výroby"
