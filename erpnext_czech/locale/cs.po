@@ -925,3 +925,111 @@ msgstr "Pracoviště"
 #. ERPNext Czech presentation overlay
 msgid "Yes"
 msgstr "Ano"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Submit this Work Order for further processing."
+msgstr "Odešlete tento výrobní příkaz k dalšímu zpracování."
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Item To Manufacture"
+msgstr "Výrobek"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Work-in-Progress Warehouse"
+msgstr "Sklad rozpracované výroby"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Scrap Warehouse"
+msgstr "Sklad odpadu"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "This is a location where raw materials are available."
+msgstr "Sklad, ve kterém jsou k dispozici suroviny."
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "This is a location where operations are executed."
+msgstr "Sklad rozpracované výroby používaný během výrobních operací."
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "This is a location where final product stored."
+msgstr "Sklad, ve kterém se ukládají hotové výrobky."
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "This is a location where scraped materials are stored."
+msgstr "Sklad, ve kterém se ukládá odpadní materiál."
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Assign"
+msgstr "Přiřadit"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Last Edited By You"
+msgstr "Naposledy upraveno vámi"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Last Edited By {0}"
+msgstr "Naposledy upravil(a) {0}"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Created By You"
+msgstr "Vytvořeno vámi"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Created By {0}"
+msgstr "Vytvořil(a) {0}"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "No."
+msgstr "Č."
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Returned Qty "
+msgstr "Vrácené množství"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Available Qty at Source Warehouse"
+msgstr "Dostupné množství ve zdrojovém skladu"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Available Qty at WIP Warehouse"
+msgstr "Dostupné množství v rozpracované výrobě"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Stock Reserved Qty"
+msgstr "Rezervované skladové množství"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Include Item In Manufacturing"
+msgstr "Zahrnout položku do výroby"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Backflush Raw Materials From Work-in-Progress Warehouse"
+msgstr "Odepisovat suroviny ze skladu rozpracované výroby"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Finished Good Serial / Batch"
+msgstr "Sériové číslo / šarže hotového výrobku"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Batch Size"
+msgstr "Velikost šarže"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Reserve Stock"
+msgstr "Rezervovat zásobu"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Production Item Info"
+msgstr "Informace o výrobku"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Additional Costs (as per BOM)"
+msgstr "Dodatečné náklady podle receptury"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Secondary Items (as per BOM)"
+msgstr "Vedlejší položky podle receptury"
+
+#. ERPNext Czech presentation overlay - Work Order polish
+msgid "Secondary Items (as per Manufacture Entries)"
+msgstr "Vedlejší položky podle výrobních pohybů"
