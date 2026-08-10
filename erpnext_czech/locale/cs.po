@@ -1077,3 +1077,243 @@ msgstr "Dodatečně převedené množství"
 #. ERPNext Czech presentation overlay - submitted Work Order fields
 msgid "Disassembled Qty"
 msgstr "Rozebrané množství"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Address & Contact"
+msgstr "Adresa a kontakt"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Terms"
+msgstr "Podmínky"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "More Info"
+msgstr "Více informací"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Connections"
+msgstr "Propojení"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Series"
+msgstr "Číselná řada"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Apply Putaway Rule"
+msgstr "Použít pravidlo zaskladnění"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Edit Posting Date and Time"
+msgstr "Upravit datum a čas zaúčtování"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Accounting Dimensions"
+msgstr "Účetní dimenze"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Currency and Price List"
+msgstr "Měna a ceník"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Scan Barcode"
+msgstr "Načíst čárový kód"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Is Subcontracted"
+msgstr "Kooperace"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Total Quantity"
+msgstr "Celkové množství"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Total (Company Currency)"
+msgstr "Celkem (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Net Total (Company Currency)"
+msgstr "Celkem bez daně (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Total"
+msgstr "Celkem"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Net Total"
+msgstr "Celkem bez daně"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Total Net Weight"
+msgstr "Celková čistá hmotnost"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Taxes and Charges"
+msgstr "Daně a poplatky"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Tax Category"
+msgstr "Daňová kategorie"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Shipping Rule"
+msgstr "Pravidlo dopravy"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Purchase Taxes and Charges Template"
+msgstr "Šablona daní a poplatků nákupu"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Purchase Taxes and Charges"
+msgstr "Daně a poplatky nákupu"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Tax Breakup"
+msgstr "Rozpis daní"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Taxes and Charges Calculation"
+msgstr "Výpočet daní a poplatků"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Taxes and Charges Added (Company Currency)"
+msgstr "Přidané daně a poplatky (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Taxes and Charges Deducted (Company Currency)"
+msgstr "Odečtené daně a poplatky (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Total Taxes and Charges (Company Currency)"
+msgstr "Daně a poplatky celkem (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Taxes and Charges Added"
+msgstr "Přidané daně a poplatky"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Taxes and Charges Deducted"
+msgstr "Odečtené daně a poplatky"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Total Taxes and Charges"
+msgstr "Daně a poplatky celkem"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Grand Total"
+msgstr "Celkový součet"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Disable Rounded Total"
+msgstr "Vypnout zaokrouhlený součet"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Rounding Adjustment"
+msgstr "Zaokrouhlení"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Rounded Total"
+msgstr "Zaokrouhlený součet"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Additional Discount"
+msgstr "Dodatečná sleva"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Apply Additional Discount On"
+msgstr "Použít dodatečnou slevu na"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Additional Discount Amount (Company Currency)"
+msgstr "Dodatečná sleva (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Additional Discount Percentage"
+msgstr "Dodatečná sleva (%)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Additional Discount Amount"
+msgstr "Dodatečná sleva"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Account Head"
+msgstr "Účet"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Tax Rate"
+msgstr "Sazba daně"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Net Amount"
+msgstr "Částka bez daně"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Net Amount (Company Currency)"
+msgstr "Částka bez daně (měna společnosti)"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Consider Tax or Charge for"
+msgstr "Zahrnout daň nebo poplatek do"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Add or Deduct"
+msgstr "Přičíst nebo odečíst"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "On Net Total"
+msgstr "Z čistého součtu"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Valuation and Total"
+msgstr "Ocenění a součet"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Valuation"
+msgstr "Ocenění"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Add"
+msgstr "Přičíst"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Deduct"
+msgstr "Odečíst"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Raw Materials Consumed"
+msgstr "Spotřebované suroviny"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Consumed Items"
+msgstr "Spotřebované položky"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Get Current Stock"
+msgstr "Načíst aktuální zásobu"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Serial and Batch No"
+msgstr "Sériové číslo a šarže"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Item Tax Template"
+msgstr "Daňová šablona položky"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Rejected Serial and Batch Bundle"
+msgstr "Evidence zamítnutých šarží a sériových čísel"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Add Serial / Batch No"
+msgstr "Přidat sériové číslo / šarži"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Add Serial / Batch No (Rejected Qty)"
+msgstr "Přidat sériové číslo / šarži pro zamítnuté množství"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Use Serial No / Batch Fields"
+msgstr "Použít pole sériového čísla / šarže"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt polish
+msgid "Return Qty from Rejected Warehouse"
+msgstr "Vrátit množství ze skladu zamítnutého zboží"
