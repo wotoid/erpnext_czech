@@ -261,3 +261,6 @@ app_license = "gpl-3.0"
 doctype_js = {
     "Purchase Receipt": "public/js/erpnext_czech.js",
 }
+
+# Czech grammatical corrections for Frappe Desk
+app_include_js = ["/assets/erpnext_czech/js/czech_grammar.js"]
