@@ -2389,3 +2389,15 @@ msgstr "Alternativní MJ"
 #. ERPNext Czech presentation overlay - Stock Balance report
 msgid "Balance Qty (Alt UOM)"
 msgstr "Konečné množství (alternativní MJ)"
+
+#. ERPNext Czech presentation overlay - manufacturing completion
+msgid "Finish"
+msgstr "Dokončit"
+
+#. ERPNext Czech presentation overlay - manufacturing completion
+msgid "Get Raw Materials Cost from Consumption Entry"
+msgstr "Přebírat náklady na suroviny ze spotřeby ve výrobě"
+
+#. ERPNext Czech presentation overlay - manufacturing completion
+msgid "Row {0}: As {1} is enabled, raw materials cannot be added to {2} entry. Use {3} entry to consume raw materials."
+msgstr "Řádek {0}: Protože je zapnuto {1}, nelze do dokladu {2} přidávat suroviny. Pro spotřebu surovin použijte doklad {3}."
