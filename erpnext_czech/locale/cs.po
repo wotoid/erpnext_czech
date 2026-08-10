@@ -2297,3 +2297,95 @@ msgstr "Množství ve skladu"
 #. ERPNext Czech presentation overlay - Pick List form polish
 msgid "Qty (Company)"
 msgstr "Celkové množství ve společnosti"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "View Stock Ledger"
+msgstr "Zobrazit skladovou evidenci"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Valuation Field Type"
+msgstr "Typ zobrazení ocenění"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Include UOM"
+msgstr "Zobrazit také MJ"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Show Alternate UOM Balance"
+msgstr "Zobrazit stav v alternativní MJ"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Show Variant Attributes"
+msgstr "Zobrazit atributy variant"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Show Stock Ageing Data"
+msgstr "Zobrazit stáří zásob"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Ignore Closing Balance"
+msgstr "Ignorovat uzávěrkový stav"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Include Zero Stock Items"
+msgstr "Zahrnout položky s nulovou zásobou"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Show Dimension Wise Stock"
+msgstr "Zobrazit zásoby podle dimenzí"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Balance Qty"
+msgstr "Konečné množství"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Balance Value"
+msgstr "Konečná hodnota"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Opening Qty"
+msgstr "Počáteční množství"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Opening Value"
+msgstr "Počáteční hodnota"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "In Qty"
+msgstr "Příjem množství"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "In Value"
+msgstr "Hodnota příjmu"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Out Qty"
+msgstr "Výdej množství"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Out Value"
+msgstr "Hodnota výdeje"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Reserved Stock"
+msgstr "Rezervovaná zásoba"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Average Age"
+msgstr "Průměrné stáří"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Earliest Age"
+msgstr "Nejstarší stáří"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Latest Age"
+msgstr "Nejnovější stáří"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Alt UOM"
+msgstr "Alternativní MJ"
+
+#. ERPNext Czech presentation overlay - Stock Balance report
+msgid "Balance Qty (Alt UOM)"
+msgstr "Konečné množství (alternativní MJ)"
