@@ -1317,3 +1317,27 @@ msgstr "Použít pole sériového čísla / šarže"
 #. ERPNext Czech presentation overlay - Purchase Receipt polish
 msgid "Return Qty from Rejected Warehouse"
 msgstr "Vrátit množství ze skladu zamítnutého zboží"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt visible leftovers
+msgid "Cost Center"
+msgstr "Nákladové středisko"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt visible leftovers
+msgid "Price List"
+msgstr "Ceník"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt visible leftovers
+msgid "Ignore Pricing Rule"
+msgstr "Ignorovat cenová pravidla"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt visible leftovers
+msgid "Get Items From"
+msgstr "Načíst položky z"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt visible leftovers
+msgid "Accepted Quantity"
+msgstr "Přijaté množství"
+
+#. ERPNext Czech presentation overlay - Purchase Receipt visible leftovers
+msgid "Rejected Quantity"
+msgstr "Zamítnuté množství"
