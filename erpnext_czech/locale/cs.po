@@ -1,0 +1,927 @@
+# Czech presentation overlay for ERPNext / Frappe v16.
+# Maintained by ERPNext Czech project.
+msgid ""
+msgstr ""
+"Project-Id-Version: ERPNext Czech 0.1.0\n"
+"Report-Msgid-Bugs-To: ota@nostressit.cz\n"
+"POT-Creation-Date: 2026-08-10 00:00+0200\n"
+"PO-Revision-Date: 2026-08-10 00:00+0200\n"
+"Last-Translator: ERPNext Czech contributors\n"
+"Language-Team: Czech\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#. ERPNext Czech presentation overlay
+msgid "Accepted"
+msgstr "Vyhovuje"
+
+#. ERPNext Czech presentation overlay
+msgid "Accepted Qty"
+msgstr "Přijaté množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Accepted Warehouse"
+msgstr "Sklad přijatého zboží"
+
+#. ERPNext Czech presentation overlay
+msgid "Actions"
+msgstr "Akce"
+
+#. ERPNext Czech presentation overlay
+msgid "Actual End Date"
+msgstr "Skutečný konec"
+
+#. ERPNext Czech presentation overlay
+msgid "Actual Qty"
+msgstr "Skutečné množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Actual Start Date"
+msgstr "Skutečný začátek"
+
+#. ERPNext Czech presentation overlay
+msgid "Add Row"
+msgstr "Přidat řádek"
+
+#. ERPNext Czech presentation overlay
+msgid "Allow Alternative Item"
+msgstr "Povolit alternativní položku"
+
+#. ERPNext Czech presentation overlay
+msgid "Allow Negative Stock"
+msgstr "Povolit záporný stav skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Amend"
+msgstr "Opravit"
+
+#. ERPNext Czech presentation overlay
+msgid "Amount"
+msgstr "Částka"
+
+#. ERPNext Czech presentation overlay
+msgid "Available Qty"
+msgstr "Dostupné množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Backflush Raw Materials Based On"
+msgstr "Spotřebu surovin počítat podle"
+
+#. ERPNext Czech presentation overlay
+msgid "Barcode"
+msgstr "Čárový kód"
+
+#. ERPNext Czech presentation overlay
+msgid "Basic Amount"
+msgstr "Základní částka"
+
+#. ERPNext Czech presentation overlay
+msgid "Basic Rate"
+msgstr "Základní cena"
+
+#. ERPNext Czech presentation overlay
+msgid "Batch"
+msgstr "Šarže"
+
+#. ERPNext Czech presentation overlay
+msgid "Batch ID"
+msgstr "Číslo šarže"
+
+#. ERPNext Czech presentation overlay
+msgid "Batch No"
+msgstr "Číslo šarže"
+
+#. ERPNext Czech presentation overlay
+msgid "Batch Qty"
+msgstr "Množství šarže"
+
+#. ERPNext Czech presentation overlay
+msgid "Batches"
+msgstr "Šarže"
+
+#. ERPNext Czech presentation overlay
+msgid "Bill Date"
+msgstr "Datum dokladu dodavatele"
+
+#. ERPNext Czech presentation overlay
+msgid "Bill No"
+msgstr "Číslo dokladu dodavatele"
+
+#. ERPNext Czech presentation overlay
+msgid "Bill of Materials"
+msgstr "Receptura"
+
+#. ERPNext Czech presentation overlay
+msgid "BOM"
+msgstr "Receptura"
+
+#. ERPNext Czech presentation overlay
+msgid "BOM Item"
+msgstr "Položka receptury"
+
+#. ERPNext Czech presentation overlay
+msgid "BOM Items"
+msgstr "Položky receptury"
+
+#. ERPNext Czech presentation overlay
+msgid "BOM No"
+msgstr "Receptura"
+
+#. ERPNext Czech presentation overlay
+msgid "Brand"
+msgstr "Značka"
+
+#. ERPNext Czech presentation overlay
+msgid "Buying"
+msgstr "Nákup"
+
+#. ERPNext Czech presentation overlay
+msgid "Cancel"
+msgstr "Zrušit"
+
+#. ERPNext Czech presentation overlay
+msgid "Cancelled"
+msgstr "Stornováno"
+
+#. ERPNext Czech presentation overlay
+msgid "Closed"
+msgstr "Uzavřeno"
+
+#. ERPNext Czech presentation overlay
+msgid "Company"
+msgstr "Společnost"
+
+#. ERPNext Czech presentation overlay
+msgid "Completed"
+msgstr "Dokončeno"
+
+#. ERPNext Czech presentation overlay
+msgid "Completed Qty"
+msgstr "Dokončené množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Consumed Qty"
+msgstr "Spotřebované množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Conversion Factor"
+msgstr "Převodní koeficient"
+
+#. ERPNext Czech presentation overlay
+msgid "Created On"
+msgstr "Vytvořeno dne"
+
+#. ERPNext Czech presentation overlay
+msgid "Customer"
+msgstr "Odběratel"
+
+#. ERPNext Czech presentation overlay
+msgid "Customer Name"
+msgstr "Název odběratele"
+
+#. ERPNext Czech presentation overlay
+msgid "Customers"
+msgstr "Odběratelé"
+
+#. ERPNext Czech presentation overlay
+msgid "Default BOM"
+msgstr "Výchozí receptura"
+
+#. ERPNext Czech presentation overlay
+msgid "Default Source Warehouse"
+msgstr "Výchozí zdrojový sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Default Target Warehouse"
+msgstr "Výchozí cílový sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Default Warehouse"
+msgstr "Výchozí sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Delete"
+msgstr "Smazat"
+
+#. ERPNext Czech presentation overlay
+msgid "Delivery Date"
+msgstr "Datum dodání"
+
+#. ERPNext Czech presentation overlay
+msgid "Delivery Note"
+msgstr "Dodací list"
+
+#. ERPNext Czech presentation overlay
+msgid "Delivery Note Item"
+msgstr "Položka dodacího listu"
+
+#. ERPNext Czech presentation overlay
+msgid "Delivery Notes"
+msgstr "Dodací listy"
+
+#. ERPNext Czech presentation overlay
+msgid "Description"
+msgstr "Popis"
+
+#. ERPNext Czech presentation overlay
+msgid "Disabled"
+msgstr "Zakázáno"
+
+#. ERPNext Czech presentation overlay
+msgid "Disabled Item"
+msgstr "Zakázaná položka"
+
+#. ERPNext Czech presentation overlay
+msgid "Draft"
+msgstr "Koncept"
+
+#. ERPNext Czech presentation overlay
+msgid "Duplicate"
+msgstr "Duplikovat"
+
+#. ERPNext Czech presentation overlay
+msgid "Edit"
+msgstr "Upravit"
+
+#. ERPNext Czech presentation overlay
+msgid "Email"
+msgstr "E-mail"
+
+#. ERPNext Czech presentation overlay
+msgid "Enabled"
+msgstr "Povoleno"
+
+#. ERPNext Czech presentation overlay
+msgid "Expiry Date"
+msgstr "Datum trvanlivosti"
+
+#. ERPNext Czech presentation overlay
+msgid "FG Warehouse"
+msgstr "Sklad hotových výrobků"
+
+#. ERPNext Czech presentation overlay
+msgid "Filters"
+msgstr "Filtry"
+
+#. ERPNext Czech presentation overlay
+msgid "Finished Goods"
+msgstr "Hotové výrobky"
+
+#. ERPNext Czech presentation overlay
+msgid "Finished Goods Warehouse"
+msgstr "Sklad hotových výrobků"
+
+#. ERPNext Czech presentation overlay
+msgid "For Quantity"
+msgstr "Pro množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Has Batch No"
+msgstr "Evidovat šarže"
+
+#. ERPNext Czech presentation overlay
+msgid "Has Serial No"
+msgstr "Evidovat sériová čísla"
+
+#. ERPNext Czech presentation overlay
+msgid "In Process"
+msgstr "Probíhá"
+
+#. ERPNext Czech presentation overlay
+msgid "Incoming Rate"
+msgstr "Příjmová cena"
+
+#. ERPNext Czech presentation overlay
+msgid "Inspection Required before Delivery"
+msgstr "Vyžadovat kontrolu kvality před expedicí"
+
+#. ERPNext Czech presentation overlay
+msgid "Inspection Required before Purchase"
+msgstr "Vyžadovat kontrolu kvality při příjmu"
+
+#. ERPNext Czech presentation overlay
+msgid "Inspection Type"
+msgstr "Typ kontroly"
+
+#. ERPNext Czech presentation overlay
+msgid "Is Return"
+msgstr "Vratka"
+
+#. ERPNext Czech presentation overlay
+msgid "Is Stock Item"
+msgstr "Skladová položka"
+
+#. ERPNext Czech presentation overlay
+msgid "Item"
+msgstr "Položka"
+
+#. ERPNext Czech presentation overlay
+msgid "Item Code"
+msgstr "Kód položky"
+
+#. ERPNext Czech presentation overlay
+msgid "Item Defaults"
+msgstr "Výchozí nastavení položky"
+
+#. ERPNext Czech presentation overlay
+msgid "Item Description"
+msgstr "Popis položky"
+
+#. ERPNext Czech presentation overlay
+msgid "Item Group"
+msgstr "Skupina položek"
+
+#. ERPNext Czech presentation overlay
+msgid "Item Groups"
+msgstr "Skupiny položek"
+
+#. ERPNext Czech presentation overlay
+msgid "Item Name"
+msgstr "Název položky"
+
+#. ERPNext Czech presentation overlay
+msgid "Item Price"
+msgstr "Cena položky"
+
+#. ERPNext Czech presentation overlay
+msgid "Items"
+msgstr "Položky"
+
+#. ERPNext Czech presentation overlay
+msgid "Job Card"
+msgstr "Pracovní lístek"
+
+#. ERPNext Czech presentation overlay
+msgid "Job Cards"
+msgstr "Pracovní lístky"
+
+#. ERPNext Czech presentation overlay
+msgid "List View"
+msgstr "Zobrazení seznamu"
+
+#. ERPNext Czech presentation overlay
+msgid "Maintain Stock"
+msgstr "Evidovat skladové zásoby"
+
+#. ERPNext Czech presentation overlay
+msgid "Manufacture"
+msgstr "Dokončení výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Manufactured Qty"
+msgstr "Vyrobené množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Manufacturing"
+msgstr "Výroba"
+
+#. ERPNext Czech presentation overlay
+msgid "Manufacturing Date"
+msgstr "Datum výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Consumption for Manufacture"
+msgstr "Spotřeba ve výrobě"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Issue"
+msgstr "Výdej materiálu"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Receipt"
+msgstr "Příjem materiálu"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Request"
+msgstr "Požadavek na materiál"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Request Type"
+msgstr "Typ požadavku na materiál"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Transfer"
+msgstr "Převod mezi sklady"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Transfer for Manufacture"
+msgstr "Převod do výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Material Transferred for Manufacturing"
+msgstr "Materiál převedený do výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Modified"
+msgstr "Upraveno"
+
+#. ERPNext Czech presentation overlay
+msgid "Name"
+msgstr "Název"
+
+#. ERPNext Czech presentation overlay
+msgid "New"
+msgstr "Nový"
+
+#. ERPNext Czech presentation overlay
+msgid "No"
+msgstr "Ne"
+
+#. ERPNext Czech presentation overlay
+msgid "Not Started"
+msgstr "Nezahájeno"
+
+#. ERPNext Czech presentation overlay
+msgid "Open"
+msgstr "Otevřeno"
+
+#. ERPNext Czech presentation overlay
+msgid "Operation"
+msgstr "Operace"
+
+#. ERPNext Czech presentation overlay
+msgid "Operations"
+msgstr "Operace"
+
+#. ERPNext Czech presentation overlay
+msgid "Ordered Qty"
+msgstr "Objednané množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Packed Item"
+msgstr "Balená položka"
+
+#. ERPNext Czech presentation overlay
+msgid "Packing Slip"
+msgstr "Balicí list"
+
+#. ERPNext Czech presentation overlay
+msgid "Parent Warehouse"
+msgstr "Nadřazený sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Pending"
+msgstr "Čeká"
+
+#. ERPNext Czech presentation overlay
+msgid "Per Transferred"
+msgstr "Převedeno (%)"
+
+#. ERPNext Czech presentation overlay
+msgid "Pick List"
+msgstr "Vychystávací seznam"
+
+#. ERPNext Czech presentation overlay
+msgid "Planned End Date"
+msgstr "Plánovaný konec"
+
+#. ERPNext Czech presentation overlay
+msgid "Planned Start Date"
+msgstr "Plánovaný začátek"
+
+#. ERPNext Czech presentation overlay
+msgid "Posting Date"
+msgstr "Datum zaúčtování"
+
+#. ERPNext Czech presentation overlay
+msgid "Posting Time"
+msgstr "Čas zaúčtování"
+
+#. ERPNext Czech presentation overlay
+msgid "Print"
+msgstr "Tisk"
+
+#. ERPNext Czech presentation overlay
+msgid "Produced Qty"
+msgstr "Vyrobené množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Production Item"
+msgstr "Výrobek"
+
+#. ERPNext Czech presentation overlay
+msgid "Production Plan"
+msgstr "Plán výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Projected Qty"
+msgstr "Předpokládané množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Purchase Invoice"
+msgstr "Přijatá faktura"
+
+#. ERPNext Czech presentation overlay
+msgid "Purchase Order"
+msgstr "Nákupní objednávka"
+
+#. ERPNext Czech presentation overlay
+msgid "Purchase Order Item"
+msgstr "Položka nákupní objednávky"
+
+#. ERPNext Czech presentation overlay
+msgid "Purchase Receipt"
+msgstr "Příjemka"
+
+#. ERPNext Czech presentation overlay
+msgid "Purchase Receipt Item"
+msgstr "Položka příjemky"
+
+#. ERPNext Czech presentation overlay
+msgid "Purchase Receipt Trends"
+msgstr "Vývoj příjemek"
+
+#. ERPNext Czech presentation overlay
+msgid "Purchase Receipts"
+msgstr "Příjemky"
+
+#. ERPNext Czech presentation overlay
+msgid "Purpose"
+msgstr "Účel"
+
+#. ERPNext Czech presentation overlay
+msgid "Qty"
+msgstr "Množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Qty To Manufacture"
+msgstr "Množství k výrobě"
+
+#. ERPNext Czech presentation overlay
+msgid "Quality"
+msgstr "Kvalita"
+
+#. ERPNext Czech presentation overlay
+msgid "Quality Inspection"
+msgstr "Kontrola kvality"
+
+#. ERPNext Czech presentation overlay
+msgid "Quality Inspection Template"
+msgstr "Šablona kontroly kvality"
+
+#. ERPNext Czech presentation overlay
+msgid "Quality Inspections"
+msgstr "Kontroly kvality"
+
+#. ERPNext Czech presentation overlay
+msgid "Quantity"
+msgstr "Množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Quick Stock Balance"
+msgstr "Rychlý stav skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Rate"
+msgstr "Cena"
+
+#. ERPNext Czech presentation overlay
+msgid "Received Qty"
+msgstr "Přijaté množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Received Quantity"
+msgstr "Přijaté množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Reference"
+msgstr "Reference"
+
+#. ERPNext Czech presentation overlay
+msgid "Refresh"
+msgstr "Obnovit"
+
+#. ERPNext Czech presentation overlay
+msgid "Rejected"
+msgstr "Nevyhovuje"
+
+#. ERPNext Czech presentation overlay
+msgid "Rejected Qty"
+msgstr "Zamítnuté množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Rejected Warehouse"
+msgstr "Sklad zamítnutého zboží"
+
+#. ERPNext Czech presentation overlay
+msgid "Remarks"
+msgstr "Poznámka"
+
+#. ERPNext Czech presentation overlay
+msgid "Reorder Level"
+msgstr "Minimální zásoba"
+
+#. ERPNext Czech presentation overlay
+msgid "Reorder Qty"
+msgstr "Množství k doplnění"
+
+#. ERPNext Czech presentation overlay
+msgid "Repack"
+msgstr "Přebalení / kompletace"
+
+#. ERPNext Czech presentation overlay
+msgid "Report"
+msgstr "Přehled"
+
+#. ERPNext Czech presentation overlay
+msgid "Reports"
+msgstr "Přehledy"
+
+#. ERPNext Czech presentation overlay
+msgid "Requested Qty"
+msgstr "Požadované množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Required Item"
+msgstr "Potřebná položka"
+
+#. ERPNext Czech presentation overlay
+msgid "Required Items"
+msgstr "Potřebné suroviny"
+
+#. ERPNext Czech presentation overlay
+msgid "Required Qty"
+msgstr "Potřebné množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Reserved Qty"
+msgstr "Rezervované množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Routing"
+msgstr "Výrobní postup"
+
+#. ERPNext Czech presentation overlay
+msgid "Safety Stock"
+msgstr "Bezpečnostní zásoba"
+
+#. ERPNext Czech presentation overlay
+msgid "Sales Order"
+msgstr "Prodejní objednávka"
+
+#. ERPNext Czech presentation overlay
+msgid "Sales Orders"
+msgstr "Prodejní objednávky"
+
+#. ERPNext Czech presentation overlay
+msgid "Sample Size"
+msgstr "Velikost vzorku"
+
+#. ERPNext Czech presentation overlay
+msgid "Save"
+msgstr "Uložit"
+
+#. ERPNext Czech presentation overlay
+msgid "Save and Submit"
+msgstr "Uložit a odeslat"
+
+#. ERPNext Czech presentation overlay
+msgid "Search"
+msgstr "Vyhledávání"
+
+#. ERPNext Czech presentation overlay
+msgid "Selling"
+msgstr "Prodej"
+
+#. ERPNext Czech presentation overlay
+msgid "Send to Subcontractor"
+msgstr "Výdej kooperantovi"
+
+#. ERPNext Czech presentation overlay
+msgid "Serial and Batch Bundle"
+msgstr "Evidence šarží a sériových čísel"
+
+#. ERPNext Czech presentation overlay
+msgid "Serial and Batch Entry"
+msgstr "Položka evidence šarží a sériových čísel"
+
+#. ERPNext Czech presentation overlay
+msgid "Serial No"
+msgstr "Sériové číslo"
+
+#. ERPNext Czech presentation overlay
+msgid "Serial Nos"
+msgstr "Sériová čísla"
+
+#. ERPNext Czech presentation overlay
+msgid "Set Posting Time"
+msgstr "Nastavit čas zaúčtování"
+
+#. ERPNext Czech presentation overlay
+msgid "Settings"
+msgstr "Nastavení"
+
+#. ERPNext Czech presentation overlay
+msgid "Shelf Life In Days"
+msgstr "Doba trvanlivosti (dní)"
+
+#. ERPNext Czech presentation overlay
+msgid "Shelf Life in Days"
+msgstr "Doba trvanlivosti (dní)"
+
+#. ERPNext Czech presentation overlay
+msgid "Shipping Address"
+msgstr "Dodací adresa"
+
+#. ERPNext Czech presentation overlay
+msgid "Skip Material Transfer to WIP"
+msgstr "Přeskočit převod materiálu do rozpracované výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Sort By"
+msgstr "Řadit podle"
+
+#. ERPNext Czech presentation overlay
+msgid "Source Warehouse"
+msgstr "Zdrojový sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Start"
+msgstr "Zahájit"
+
+#. ERPNext Czech presentation overlay
+msgid "Status"
+msgstr "Stav"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock"
+msgstr "Sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Ageing"
+msgstr "Stáří zásob"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Analytics"
+msgstr "Analýza zásob"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Balance"
+msgstr "Stav skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Entries"
+msgstr "Skladové pohyby"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Entry"
+msgstr "Skladový pohyb"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Entry Type"
+msgstr "Typ skladového pohybu"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Ledger"
+msgstr "Skladová evidence"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Projected Qty"
+msgstr "Výhled zásob"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Qty"
+msgstr "Skladové množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Reconciliation"
+msgstr "Inventura skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Settings"
+msgstr "Nastavení skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock UOM"
+msgstr "Skladová MJ"
+
+#. ERPNext Czech presentation overlay
+msgid "Stock Value"
+msgstr "Hodnota skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Stop"
+msgstr "Zastavit"
+
+#. ERPNext Czech presentation overlay
+msgid "Stopped"
+msgstr "Zastaveno"
+
+#. ERPNext Czech presentation overlay
+msgid "Submit"
+msgstr "Odeslat"
+
+#. ERPNext Czech presentation overlay
+msgid "Submitted"
+msgstr "Odesláno"
+
+#. ERPNext Czech presentation overlay
+msgid "Supplier"
+msgstr "Dodavatel"
+
+#. ERPNext Czech presentation overlay
+msgid "Supplier Delivery Note"
+msgstr "Dodací list dodavatele"
+
+#. ERPNext Czech presentation overlay
+msgid "Supplier Name"
+msgstr "Název dodavatele"
+
+#. ERPNext Czech presentation overlay
+msgid "Supplier Warehouse"
+msgstr "Sklad dodavatele"
+
+#. ERPNext Czech presentation overlay
+msgid "Suppliers"
+msgstr "Dodavatelé"
+
+#. ERPNext Czech presentation overlay
+msgid "Target Warehouse"
+msgstr "Cílový sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Tools"
+msgstr "Nástroje"
+
+#. ERPNext Czech presentation overlay
+msgid "Transfer Material Against"
+msgstr "Převádět materiál podle"
+
+#. ERPNext Czech presentation overlay
+msgid "Transferred Qty"
+msgstr "Převedené množství"
+
+#. ERPNext Czech presentation overlay
+msgid "Type"
+msgstr "Typ"
+
+#. ERPNext Czech presentation overlay
+msgid "UOM"
+msgstr "Měrná jednotka"
+
+#. ERPNext Czech presentation overlay
+msgid "UOM Conversion Factor"
+msgstr "Převodní koeficient MJ"
+
+#. ERPNext Czech presentation overlay
+msgid "Use Multi-Level BOM"
+msgstr "Použít víceúrovňovou recepturu"
+
+#. ERPNext Czech presentation overlay
+msgid "Valuation Rate"
+msgstr "Oceňovací cena"
+
+#. ERPNext Czech presentation overlay
+msgid "View"
+msgstr "Zobrazení"
+
+#. ERPNext Czech presentation overlay
+msgid "Warehouse"
+msgstr "Sklad"
+
+#. ERPNext Czech presentation overlay
+msgid "Warehouse Reorder Level"
+msgstr "Minimální zásoba ve skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Warehouse Reorder Qty"
+msgstr "Množství k doplnění"
+
+#. ERPNext Czech presentation overlay
+msgid "Warehouse Type"
+msgstr "Typ skladu"
+
+#. ERPNext Czech presentation overlay
+msgid "Warehouses"
+msgstr "Sklady"
+
+#. ERPNext Czech presentation overlay
+msgid "WIP Warehouse"
+msgstr "Sklad rozpracované výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Work In Progress"
+msgstr "Rozpracovaná výroba"
+
+#. ERPNext Czech presentation overlay
+msgid "Work In Progress Warehouse"
+msgstr "Sklad rozpracované výroby"
+
+#. ERPNext Czech presentation overlay
+msgid "Work Order"
+msgstr "Výrobní příkaz"
+
+#. ERPNext Czech presentation overlay
+msgid "Work Orders"
+msgstr "Výrobní příkazy"
+
+#. ERPNext Czech presentation overlay
+msgid "Workstation"
+msgstr "Pracoviště"
+
+#. ERPNext Czech presentation overlay
+msgid "Yes"
+msgstr "Ano"
