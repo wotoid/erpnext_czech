@@ -256,3 +256,8 @@ app_license = "gpl-3.0"
 # List of apps whose translatable strings should be excluded from this app's translations.
 # ignore_translatable_strings_from = []
 
+
+# Czech UI corrections requiring grammatical context
+doctype_js = {
+    "Purchase Receipt": "public/js/erpnext_czech.js",
+}

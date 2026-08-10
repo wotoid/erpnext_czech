@@ -1481,3 +1481,75 @@ msgstr "Předběžný nákladový účet"
 #. ERPNext Czech presentation overlay - Purchase Receipt Item detail
 msgid "WIP Composite Asset"
 msgstr "Rozpracovaný složený majetek"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "View Ledger"
+msgstr "Zobrazit skladovou evidenci"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Recalculate Batch Qty"
+msgstr "Přepočítat množství šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Buy"
+msgstr "Nákup"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Sell"
+msgstr "Prodej"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Transfer"
+msgstr "Převod"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Stock Levels"
+msgstr "Stav zásob"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Batch Details"
+msgstr "Údaje šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Batch Quantity"
+msgstr "Množství šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Batch UOM"
+msgstr "MJ šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Use Batch-wise Valuation"
+msgstr "Použít ocenění podle šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Allow Negative Stock for Batch"
+msgstr "Povolit zápornou zásobu šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Source"
+msgstr "Zdroj"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Source Document Type"
+msgstr "Typ zdrojového dokumentu"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Source Document Name"
+msgstr "Zdrojový dokument"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Batch Description"
+msgstr "Popis šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Qty To Produce"
+msgstr "Množství k výrobě"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Parent Batch"
+msgstr "Nadřazená šarže"
+
+#. ERPNext Czech presentation overlay - Batch detail polish
+msgid "Image"
+msgstr "Obrázek"
