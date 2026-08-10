@@ -2077,3 +2077,35 @@ msgstr "Přeskočit převod materiálu"
 #. ERPNext Czech presentation overlay - BOM / Recipe polish
 msgid "Backflush Materials From WIP Warehouse"
 msgstr "Odepisovat materiál ze skladu rozpracované výroby"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Add Batch Nos"
+msgstr "Přiřadit čísla šarží"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Batch Nos"
+msgstr "Čísla šarží"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Scan Batch No"
+msgstr "Naskenovat číslo šarže"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Import Using CSV file"
+msgstr "Importovat ze souboru CSV"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Add Batch Nos via CSV File"
+msgstr "Přiřadit čísla šarží ze souboru CSV"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Download CSV Template"
+msgstr "Stáhnout šablonu CSV"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Attach CSV File"
+msgstr "Přiložit soubor CSV"
+
+#. ERPNext Czech presentation overlay - Serial / Batch Selector
+msgid "Please attach CSV file"
+msgstr "Přiložte prosím soubor CSV"
