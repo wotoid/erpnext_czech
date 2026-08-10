@@ -2109,3 +2109,63 @@ msgstr "Přiložit soubor CSV"
 #. ERPNext Czech presentation overlay - Serial / Batch Selector
 msgid "Please attach CSV file"
 msgstr "Přiložte prosím soubor CSV"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Default Unit of Measure"
+msgstr "Výchozí měrná jednotka"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Item Attributes"
+msgstr "Vlastnosti položky"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Allow Sales"
+msgstr "Povolit prodej"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Allow Purchase"
+msgstr "Povolit nákup"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Is Customer Provided Item"
+msgstr "Položka dodaná zákazníkem"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Is Fixed Asset"
+msgstr "Je dlouhodobý majetek"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Over Delivery/Receipt Allowance (%)"
+msgstr "Povolené překročení dodání/příjmu (%)"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Over Billing Allowance (%)"
+msgstr "Povolené překročení fakturace (%)"
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "ERPNext will make a stock ledger entry for each transaction of this item. Keep unchecked for non-stock or service items."
+msgstr "ERPNext vytvoří záznam ve skladové evidenci pro každou transakci s touto položkou. U neskladových položek nebo služeb ponechte vypnuté."
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Enable if this item is a company asset like machinery or furniture."
+msgstr "Povolte, pokud je tato položka majetkem společnosti, například stroj nebo vybavení."
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Allow this item to be used in sales transactions."
+msgstr "Povolí použití této položky v prodejních dokladech."
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Allow this item to be used in purchase transactions."
+msgstr "Povolí použití této položky v nákupních dokladech."
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Enable if this item is provided by a customer and received via Stock Entry."
+msgstr "Povolte, pokud položku dodává zákazník a přijímá se pomocí skladového pohybu."
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Percentage by which over-delivery or over-receipt is allowed against a Sales/Purchase Order for this item. If not set, value from Stock Settings will be used."
+msgstr "Procento, o které lze u této položky překročit množství při dodání nebo příjmu oproti prodejní či nákupní objednávce. Není-li nastaveno, použije se hodnota z Nastavení skladu."
+
+#. ERPNext Czech presentation overlay - Item details polish
+msgid "Percentage by which over-billing is allowed against a Sales/Purchase Order for this item. If not set, value from Accounts Settings will be used."
+msgstr "Procento, o které lze při fakturaci této položky překročit množství oproti prodejní či nákupní objednávce. Není-li nastaveno, použije se hodnota z Nastavení účetnictví."
