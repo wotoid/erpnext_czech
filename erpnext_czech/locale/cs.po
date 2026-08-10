@@ -1553,3 +1553,223 @@ msgstr "Nadřazená šarže"
 #. ERPNext Czech presentation overlay - Batch detail polish
 msgid "Image"
 msgstr "Obrázek"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Inventory"
+msgstr "Sklad"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Purchasing"
+msgstr "Nákup"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Sales"
+msgstr "Prodej"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Pricing"
+msgstr "Ceny"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Tax"
+msgstr "Daně"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Inventory Valuation"
+msgstr "Ocenění zásob"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Valuation Method"
+msgstr "Metoda ocenění"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Inventory Settings"
+msgstr "Nastavení zásob"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "End of Life"
+msgstr "Konec životnosti"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Warranty Period (in days)"
+msgstr "Záruční doba (dny)"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Default Material Request Type"
+msgstr "Výchozí typ požadavku na materiál"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Purchase"
+msgstr "Nákup"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Barcodes"
+msgstr "Čárové kódy"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Barcode Type"
+msgstr "Typ čárového kódu"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Auto re-order"
+msgstr "Automatické doplňování zásob"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Reorder level based on Warehouse"
+msgstr "Úroveň doplnění podle skladu"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Will also apply for variants unless overridden"
+msgstr "Platí také pro varianty, pokud není nastaveno jinak"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Check Availability in Warehouse"
+msgstr "Kontrolovat dostupnost ve skladu"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Request for"
+msgstr "Požadavek pro sklad"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Re-order Level"
+msgstr "Minimální zásoba"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Re-order Qty"
+msgstr "Množství k doplnění"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Serial Nos / Batches"
+msgstr "Sériová čísla / šarže"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Automatically Create New Batch"
+msgstr "Automaticky vytvořit novou šarži"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Batch number will be auto-created in format AAAA.00001 if not specified in transactions. Leave blank to always enter batch numbers manually."
+msgstr "Pokud v dokladu není číslo šarže zadáno, systém je automaticky vytvoří ve formátu AAAA.00001. Nechte vypnuté, pokud chcete čísla šarží zadávat ručně."
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Has Expiry Date"
+msgstr "Evidovat datum trvanlivosti"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Batch number will be created based on expiry date. Expiry dates can be set in the Batch master."
+msgstr "Číslo šarže bude vytvořeno podle data trvanlivosti. Datum trvanlivosti lze nastavit v kartě šarže."
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Max Sample Quantity"
+msgstr "Maximální množství vzorku"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Default Purchase Unit of Measure"
+msgstr "Výchozí nákupní MJ"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Lead Time in days"
+msgstr "Dodací lhůta (dny)"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Average time taken by the supplier to deliver"
+msgstr "Průměrná doba dodání od dodavatele"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Minimum Order Qty"
+msgstr "Minimální objednací množství"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Minimum quantity should be as per Stock UOM"
+msgstr "Minimální množství se zadává ve skladové MJ"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Last Purchase Rate"
+msgstr "Poslední nákupní cena"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "The rate at which this item was last purchased via a Purchase Invoice. Auto-updated by the system."
+msgstr "Cena, za kterou byla položka naposledy nakoupena prostřednictvím přijaté faktury. Systém ji aktualizuje automaticky."
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Supplier Details"
+msgstr "Údaje dodavatele"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Delivered by Supplier (Drop Ship)"
+msgstr "Dodává přímo dodavatel (dropshipping)"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "If checked, this item is treated as drop-shipped by default in Sales Orders, Sales Invoices and Purchase Orders. The flag can be overridden on each transaction line."
+msgstr "Je-li povoleno, položku standardně dodává dodavatel přímo odběrateli. Nastavení lze změnit na jednotlivých řádcích dokladů."
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Enable for drop shipping - supplier delivers directly to the customer without passing through your warehouse."
+msgstr "Povolte pro přímou dodávku od dodavatele odběrateli bez průchodu vaším skladem."
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Item Supplier"
+msgstr "Dodavatelé položky"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Supplier Part Number"
+msgstr "Kód položky u dodavatele"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Foreign Trade Details"
+msgstr "Údaje zahraničního obchodu"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Country of Origin"
+msgstr "Země původu"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Customs Tariff Number"
+msgstr "Celní sazební číslo"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Default Sales Unit of Measure"
+msgstr "Výchozí prodejní MJ"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Max Discount (%)"
+msgstr "Maximální sleva (%)"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Maximum discount % allowed when selling this item. Eg: if set to 20%, a discount greater than 20% cannot be applied in sales transactions."
+msgstr "Maximální povolená sleva při prodeji položky. Například při hodnotě 20 % nelze v prodejním dokladu použít vyšší slevu."
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Grant Commission"
+msgstr "Zahrnout do provize"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Customer Details"
+msgstr "Údaje odběratele"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Customer Items"
+msgstr "Položky odběratelů"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Customer Group"
+msgstr "Skupina odběratelů"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Ref Code"
+msgstr "Referenční kód"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Production Capacity"
+msgstr "Výrobní kapacita"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Is Subcontracted Item"
+msgstr "Položka vyráběná v kooperaci"
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Enable for raw material items used in BOM. Uncheck for additional services like 'washing' used in manufacturing."
+msgstr "Povolte pro suroviny používané v receptuře. Vypněte pro doplňkové výrobní služby, například mytí."
+
+#. ERPNext Czech presentation overlay - Item master polish
+msgid "Enable if a vendor manufactures this item for you. You can choose to provide them raw materials using the default BOM."
+msgstr "Povolte, pokud tuto položku pro vás vyrábí kooperant. Suroviny mu lze dodat podle výchozí receptury."
