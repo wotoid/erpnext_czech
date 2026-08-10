@@ -864,7 +864,7 @@ msgstr "Měrná jednotka"
 
 #. ERPNext Czech presentation overlay
 msgid "UOM Conversion Factor"
-msgstr "Převodní koeficient MJ"
+msgstr "Přepočítací koeficient MJ"
 
 #. ERPNext Czech presentation overlay
 msgid "Use Multi-Level BOM"
@@ -1312,7 +1312,7 @@ msgstr "Přidat sériové číslo / šarži pro zamítnuté množství"
 
 #. ERPNext Czech presentation overlay - Purchase Receipt polish
 msgid "Use Serial No / Batch Fields"
-msgstr "Použít pole sériového čísla / šarže"
+msgstr "Použít pole sériových čísel / šarží"
 
 #. ERPNext Czech presentation overlay - Purchase Receipt polish
 msgid "Return Qty from Rejected Warehouse"
@@ -2193,3 +2193,107 @@ msgstr "Vychystávací seznam není kompletní"
 #. ERPNext Czech presentation overlay - Pick List stock warnings
 msgid "Row {0} picked quantity is less than the required quantity, additional {1} {2} required."
 msgstr "Na řádku {0} je vychystané množství menší než požadované. Je třeba doplnit ještě {1} {2}."
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Qty of Finished Goods Item"
+msgstr "Množství hotového výrobku"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Qty of raw materials will be decided based on the qty of the Finished Goods Item"
+msgstr "Množství surovin se vypočítá podle množství hotového výrobku."
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Items under this warehouse will be suggested"
+msgstr "Budou navrženy položky dostupné v tomto skladu."
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Consider Rejected Warehouses"
+msgstr "Zahrnout sklady zamítnutého materiálu"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Enable it if users want to consider rejected materials to dispatch."
+msgstr "Povolte, pokud se při výdeji mají zohlednit také zamítnuté materiály."
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Get Item Locations"
+msgstr "Vyhledat umístění položek"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Pick Manually"
+msgstr "Vychystat ručně"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "If enabled then system won't override the picked qty / batches / serial numbers / warehouse."
+msgstr "Je-li povoleno, systém nebude přepisovat vychystané množství, šarže, sériová čísla ani sklad."
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "If enabled then system won't apply the pricing rule on the delivery note which will be create from the pick list"
+msgstr "Je-li povoleno, systém nepoužije cenová pravidla na dodacím listu vytvořeném z tohoto vychystávacího seznamu."
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Scan Mode"
+msgstr "Režim skenování"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "If checked, picked qty won't automatically be fulfilled on submit of pick list."
+msgstr "Je-li povoleno, vychystané množství se při odeslání seznamu automaticky nedoplní."
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Prompt Qty"
+msgstr "Dotázat se na množství"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Item Locations"
+msgstr "Umístění položek"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Print Settings"
+msgstr "Nastavení tisku"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Group Same Items"
+msgstr "Seskupit stejné položky"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Delivery Status"
+msgstr "Stav dodání"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "% Delivered"
+msgstr "% dodáno"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "% of materials delivered against this Pick List"
+msgstr "% materiálu dodaného podle tohoto vychystávacího seznamu"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Picked Qty (in Stock UOM)"
+msgstr "Vychystané množství (skladová MJ)"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Qty (in Stock UOM)"
+msgstr "Množství (skladová MJ)"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Serial No and Batch"
+msgstr "Sériové číslo a šarže"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Pick Serial / Batch No"
+msgstr "Vybrat sériové číslo / šarži"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Stock Reserved Qty (in Stock UOM)"
+msgstr "Rezervované množství (skladová MJ)"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Delivered Qty (in Stock UOM)"
+msgstr "Dodané množství (skladová MJ)"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Qty (Warehouse)"
+msgstr "Množství ve skladu"
+
+#. ERPNext Czech presentation overlay - Pick List form polish
+msgid "Qty (Company)"
+msgstr "Celkové množství ve společnosti"
