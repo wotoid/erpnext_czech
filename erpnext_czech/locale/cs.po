@@ -1033,3 +1033,39 @@ msgstr "Vedlejší položky podle receptury"
 #. ERPNext Czech presentation overlay - Work Order polish
 msgid "Secondary Items (as per Manufacture Entries)"
 msgstr "Vedlejší položky podle výrobních pohybů"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Create Pick List"
+msgstr "Vytvořit vychystávací seznam"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Skip Material Transfer to WIP Warehouse"
+msgstr "Přeskočit převod materiálu do rozpracované výroby"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Check if material transfer entry is not required"
+msgstr "Zaškrtněte, pokud není převod materiálu vyžadován"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Plan material for sub-assemblies"
+msgstr "Plánovat materiál pro polotovary"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Update Consumed Material Cost In Project"
+msgstr "Aktualizovat náklady na spotřebovaný materiál v projektu"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Expected Delivery Date"
+msgstr "Předpokládané datum dokončení"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Lead Time"
+msgstr "Průběžná doba"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "In Mins"
+msgstr "V minutách"
+
+#. ERPNext Czech presentation overlay - Work Order configuration polish
+msgid "Material Planning"
+msgstr "Plánování materiálu"
