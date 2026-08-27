@@ -10,6 +10,8 @@
 	const new_document_titles = {
 		"Purchase Receipt": "Nová příjemka",
 		"Purchase Order": "Nová nákupní objednávka",
+		"Supplier": "Nový dodavatel",
+		"Item": "Nová položka",
 	};
 
 	function fix_new_document_title(frm) {
@@ -53,4 +55,27 @@
 			},
 		});
 	});
+
+
+	// Quick Entry uses its own generic "New {0}" title and therefore needs the
+	// same Czech grammatical correction separately from full Form views.
+	const quick_entry_titles = {
+		"Supplier": "Nový dodavatel",
+		"Item": "Nová položka",
+		"Purchase Receipt": "Nová příjemka",
+		"Purchase Order": "Nová nákupní objednávka",
+	};
+
+	if (
+		frappe.ui?.form?.QuickEntryForm?.prototype?.get_title &&
+		!frappe.ui.form.QuickEntryForm.prototype.__erpnext_czech_title_patch
+	) {
+		const original_get_title = frappe.ui.form.QuickEntryForm.prototype.get_title;
+
+		frappe.ui.form.QuickEntryForm.prototype.get_title = function () {
+			return quick_entry_titles[this.doctype] || original_get_title.apply(this, arguments);
+		};
+
+		frappe.ui.form.QuickEntryForm.prototype.__erpnext_czech_title_patch = true;
+	}
 })();

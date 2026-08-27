@@ -1680,7 +1680,7 @@ msgstr "Minimální objednací množství"
 
 #. ERPNext Czech presentation overlay - Item master polish
 msgid "Minimum quantity should be as per Stock UOM"
-msgstr "Minimální množství se zadává ve skladové MJ"
+msgstr "Minimální množství se zadává ve skladové měrné jednotce"
 
 #. ERPNext Czech presentation overlay - Item master polish
 msgid "Last Purchase Rate"
@@ -2418,3 +2418,119 @@ msgstr "K příjmu"
 msgid "To Bill"
 msgstr "K fakturaci"
 
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Supplier Type"
+msgstr "Typ dodavatele"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Supplier Group"
+msgstr "Skupina dodavatelů"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Alias"
+msgstr "Alternativní název"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Primary Contact Details"
+msgstr "Primární kontaktní údaje"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Mobile Number"
+msgstr "Mobilní telefon"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Primary Address Details"
+msgstr "Údaje primární adresy"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "State/Province"
+msgstr "Kraj / oblast"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "ZIP Code"
+msgstr "PSČ"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Billing Currency"
+msgstr "Měna fakturace"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Company Bank Account"
+msgstr "Bankovní účet společnosti"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Payment Terms Template"
+msgstr "Šablona platebních podmínek"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Portal Users"
+msgstr "Uživatelé portálu"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Primary Address and Contact"
+msgstr "Primární adresa a kontakt"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Reselect, if the chosen address is edited after save"
+msgstr "Vyberte znovu, pokud byla zvolená adresa po uložení upravena"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Reselect, if the chosen contact is edited after save"
+msgstr "Vyberte znovu, pokud byl zvolený kontakt po uložení upraven"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Is Transporter"
+msgstr "Je dopravce"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Enable to make this supplier selectable as a transporter on Delivery Notes and Stock Entries"
+msgstr "Povolí výběr tohoto dodavatele jako dopravce na dodacích listech a skladových pohybech"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Allow purchase invoice creation without purchase order"
+msgstr "Povolit vytvoření přijaté faktury bez nákupní objednávky"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Allow purchase invoice creation without purchase receipt"
+msgstr "Povolit vytvoření přijaté faktury bez příjemky"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Block Supplier"
+msgstr "Blokovat dodavatele"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Is Frozen"
+msgstr "Zmrazeno"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Frozen suppliers block ledger entries until unfrozen. Use this to temporarily lock accounting activity without disabling the supplier."
+msgstr "Zmrazený dodavatel blokuje účetní zápisy až do opětovného uvolnění. Použijte pro dočasné pozastavení účetních operací bez deaktivace dodavatele."
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Disabled suppliers are hidden from selection in new transactions but remain in historical records"
+msgstr "Zakázaní dodavatelé se nezobrazují při výběru v nových dokladech, ale zůstávají zachováni v historii."
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Standard Selling Rate"
+msgstr "Výchozí prodejní cena"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Creates an Item Price automatically when the item is saved"
+msgstr "Při uložení položky automaticky vytvoří cenu položky"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "UOM Conversion Details"
+msgstr "Převody měrných jednotek"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Define alternate units for this item. Eg: 1 Box = 12 Nos, set conversion factor as 12. (Will also apply for variants)"
+msgstr "Definujte alternativní měrné jednotky položky. Např. 1 krabice = 12 ks, převodní koeficient nastavte na 12. Platí také pro varianty."
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Learn more"
+msgstr "Více informací"
+
+#. ERPNext Czech - purchasing / stock workflow polish
+msgid "Minimum stock level to maintain as a buffer. Used to calculate recommended reorder level: Reorder Level = Safety Stock + (Average Daily Consumption × Lead Time)."
+msgstr "Minimální zásoba udržovaná jako rezerva. Používá se pro výpočet doporučeného bodu objednání: bod objednání = bezpečnostní zásoba + (průměrná denní spotřeba × dodací lhůta)."

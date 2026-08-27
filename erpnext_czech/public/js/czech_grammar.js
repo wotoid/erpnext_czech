@@ -10,6 +10,7 @@
 		"Purchase Receipt": "Přidat příjemku",
 		"Purchase Order": "Přidat nákupní objednávku",
 		"Item": "Přidat položku",
+		"Supplier": "Přidat dodavatele",
 		"BOM": "Přidat recepturu",
 		"Batch": "Přidat šarži",
 		"Quality Inspection": "Přidat kontrolu kvality",
