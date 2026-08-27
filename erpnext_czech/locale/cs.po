@@ -2578,3 +2578,103 @@ msgstr "Maximum: {0}"
 #. ERPNext Czech - Pick List action
 msgid "Update Current Stock"
 msgstr "Aktualizovat stav skladu"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Order Type"
+msgstr "Typ objednávky"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Set Source Warehouse"
+msgstr "Nastavit zdrojový sklad"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Taxes"
+msgstr "Daně"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Sales Taxes and Charges Template"
+msgstr "Šablona daní a poplatků prodeje"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Sales Taxes and Charges"
+msgstr "Daně a poplatky prodeje"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "In Words"
+msgstr "Slovy"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Advance Paid"
+msgstr "Zaplacená záloha"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Billing Status"
+msgstr "Stav fakturace"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Advance Payment Status"
+msgstr "Stav zálohy"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "% Amount Billed"
+msgstr "% fakturováno"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "To Deliver and Bill"
+msgstr "K dodání a fakturaci"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "To Deliver"
+msgstr "K dodání"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Update Items"
+msgstr "Aktualizovat položky"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Hold"
+msgstr "Pozastavit"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Resume"
+msgstr "Obnovit"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Close"
+msgstr "Uzavřít"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Re-open"
+msgstr "Znovu otevřít"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Sales Invoice"
+msgstr "Prodejní faktura"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Request for Raw Materials"
+msgstr "Požadavek na suroviny"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Payment Request"
+msgstr "Výzva k platbě"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Payment"
+msgstr "Platba"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Delivery"
+msgstr "Expedice"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Partly Delivered"
+msgstr "Částečně dodáno"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Fully Delivered"
+msgstr "Dodáno"
+
+#. ERPNext Czech - sales / dispatch workflow
+msgid "Not Delivered"
+msgstr "Nedodáno"

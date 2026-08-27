@@ -10,6 +10,7 @@
 	const new_document_titles = {
 		"Purchase Receipt": "Nová příjemka",
 		"Purchase Order": "Nová nákupní objednávka",
+		"Sales Order": "Nová prodejní objednávka",
 		"Supplier": "Nový dodavatel",
 		"Item": "Nová položka",
 	};
@@ -64,6 +65,7 @@
 		"Item": "Nová položka",
 		"Purchase Receipt": "Nová příjemka",
 		"Purchase Order": "Nová nákupní objednávka",
+		"Sales Order": "Nová prodejní objednávka",
 	};
 
 	if (
