@@ -2401,3 +2401,20 @@ msgstr "Přebírat náklady na suroviny ze spotřeby ve výrobě"
 #. ERPNext Czech presentation overlay - manufacturing completion
 msgid "Row {0}: As {1} is enabled, raw materials cannot be added to {2} entry. Use {3} entry to consume raw materials."
 msgstr "Řádek {0}: Protože je zapnuto {1}, nelze do dokladu {2} přidávat suroviny. Pro spotřebu surovin použijte doklad {3}."
+
+#. ERPNext Czech - Purchase Order workflow polish
+msgid "Required By"
+msgstr "Termín dodání"
+
+msgid "Set Target Warehouse"
+msgstr "Nastavit cílový sklad"
+
+msgid "To Receive and Bill"
+msgstr "K příjmu a fakturaci"
+
+msgid "To Receive"
+msgstr "K příjmu"
+
+msgid "To Bill"
+msgstr "K fakturaci"
+
