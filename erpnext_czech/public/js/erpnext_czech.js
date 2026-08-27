@@ -1,18 +1,26 @@
 /*
- * Czech grammatical correction for dynamically generated Frappe titles.
+ * Czech grammatical corrections for dynamically generated Frappe titles.
  *
  * Frappe builds new-document titles from the generic "New {0}" message.
- * Czech grammatical gender cannot be expressed by that single gettext key.
- * This correction is intentionally scoped to Purchase Receipt only.
+ * Czech grammatical gender/case cannot be expressed by that single gettext key,
+ * so selected DocTypes use explicit Czech titles.
  */
 
 (function () {
-	function fix_new_purchase_receipt_title(frm) {
-		if (!frm || frm.doctype !== "Purchase Receipt" || !frm.is_new()) {
+	const new_document_titles = {
+		"Purchase Receipt": "Nová příjemka",
+		"Purchase Order": "Nová nákupní objednávka",
+	};
+
+	function fix_new_document_title(frm) {
+		if (!frm || !frm.is_new()) {
 			return;
 		}
 
-		const title = "Nová Příjemka";
+		const title = new_document_titles[frm.doctype];
+		if (!title) {
+			return;
+		}
 
 		if (frm.page && frm.page.set_title) {
 			frm.page.set_title(title);
@@ -30,15 +38,19 @@
 		}
 	}
 
-	frappe.ui.form.on("Purchase Receipt", {
-		refresh(frm) {
-			if (!frm.is_new()) {
-				return;
-			}
+	Object.keys(new_document_titles).forEach((doctype) => {
+		frappe.ui.form.on(doctype, {
+			refresh(frm) {
+				if (!frm.is_new()) {
+					return;
+				}
 
-			fix_new_purchase_receipt_title(frm);
-			requestAnimationFrame(() => fix_new_purchase_receipt_title(frm));
-			setTimeout(() => fix_new_purchase_receipt_title(frm), 100);
-		},
+				fix_new_document_title(frm);
+
+				// Frappe can overwrite the title during late route/form refresh.
+				requestAnimationFrame(() => fix_new_document_title(frm));
+				setTimeout(() => fix_new_document_title(frm), 100);
+			},
+		});
 	});
 })();

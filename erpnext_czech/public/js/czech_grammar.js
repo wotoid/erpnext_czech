@@ -8,6 +8,7 @@
 (function () {
 	const add_labels = {
 		"Purchase Receipt": "Přidat příjemku",
+		"Purchase Order": "Přidat nákupní objednávku",
 		"Item": "Přidat položku",
 		"BOM": "Přidat recepturu",
 		"Batch": "Přidat šarži",
