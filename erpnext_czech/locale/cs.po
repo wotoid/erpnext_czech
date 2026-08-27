@@ -2574,3 +2574,7 @@ msgstr "Množství nesmí být větší než {0}"
 #. ERPNext Czech - manufacturing workflow dialog
 msgid "Max: {0}"
 msgstr "Maximum: {0}"
+
+#. ERPNext Czech - Pick List action
+msgid "Update Current Stock"
+msgstr "Aktualizovat stav skladu"
