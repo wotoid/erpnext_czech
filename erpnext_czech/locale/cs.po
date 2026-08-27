@@ -1896,7 +1896,7 @@ msgstr "Výrobní ztráta (%)"
 
 #. ERPNext Czech presentation overlay - BOM / Recipe polish
 msgid "Process Loss Qty"
-msgstr "Množství výrobní ztráty"
+msgstr "Množství procesních ztrát"
 
 #. ERPNext Czech presentation overlay - BOM / Recipe polish
 msgid "Consume Components"
@@ -2542,3 +2542,35 @@ msgstr "Prodej a nákup"
 #. ERPNext Czech - Item purpose values
 msgid "Subcontract"
 msgstr "Kooperace"
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Select Quantity"
+msgstr "Vyberte množství"
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Qty for {0}"
+msgstr "Množství pro {0}"
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Consider Process Loss"
+msgstr "Zohlednit procesní ztráty"
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Finished Good Qty"
+msgstr "Množství hotového výrobku"
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Process loss booked against the operations of this work order."
+msgstr "Procesní ztráta zaúčtovaná proti operacím tohoto výrobního příkazu."
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Actual quantity of the finished good that will be manufactured."
+msgstr "Skutečné množství hotového výrobku, které bude vyrobeno."
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Quantity must not be more than {0}"
+msgstr "Množství nesmí být větší než {0}"
+
+#. ERPNext Czech - manufacturing workflow dialog
+msgid "Max: {0}"
+msgstr "Maximum: {0}"
