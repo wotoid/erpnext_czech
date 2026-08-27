@@ -368,7 +368,7 @@ msgstr "Evidovat skladové zásoby"
 
 #. ERPNext Czech presentation overlay
 msgid "Manufacture"
-msgstr "Dokončení výroby"
+msgstr "Výroba"
 
 #. ERPNext Czech presentation overlay
 msgid "Manufactured Qty"
@@ -2534,3 +2534,11 @@ msgstr "Více informací"
 #. ERPNext Czech - purchasing / stock workflow polish
 msgid "Minimum stock level to maintain as a buffer. Used to calculate recommended reorder level: Reorder Level = Safety Stock + (Average Daily Consumption × Lead Time)."
 msgstr "Minimální zásoba udržovaná jako rezerva. Používá se pro výpočet doporučeného bodu objednání: bod objednání = bezpečnostní zásoba + (průměrná denní spotřeba × dodací lhůta)."
+
+#. ERPNext Czech - Item purpose values
+msgid "Sales & Purchase"
+msgstr "Prodej a nákup"
+
+#. ERPNext Czech - Item purpose values
+msgid "Subcontract"
+msgstr "Kooperace"
